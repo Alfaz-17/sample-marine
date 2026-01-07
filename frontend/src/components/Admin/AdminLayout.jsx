@@ -57,7 +57,7 @@ const AdminLayout = () => {
             <Anchor className="w-8 h-8 text-marine-aqua" />
             <div className="flex flex-col">
               <span className="font-heading text-xl font-bold text-white tracking-wide leading-none">
-                CORONA MARINE
+                SAMPLE MARINE
               </span>
               <span className="font-sans text-xs text-marine-aqua tracking-wider uppercase font-semibold">
                 ADMIN PANEL

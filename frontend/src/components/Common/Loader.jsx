@@ -11,7 +11,7 @@ const Loader = () => {
       {/* Spinner + Text */}
       <div style={styles.loaderContent}>
         <div style={styles.spinner}></div>
-        <h1 style={styles.text}>Corona Marine</h1>
+        <h1 style={styles.text}>Sample Marine</h1>
         
       </div>
 

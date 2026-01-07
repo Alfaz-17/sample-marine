@@ -54,7 +54,7 @@ const Dashboard = () => {
       <div className="flex items-center justify-between">
         <div>
           <h1 className="font-heading text-4xl font-bold text-marine-navy uppercase tracking-wide">Dashboard</h1>
-          <p className="text-marine-blue mt-2 font-sans">Welcome to Corona Marine Admin Panel</p>
+          <p className="text-marine-blue mt-2 font-sans">Welcome to Sample Marine Admin Panel</p>
         </div>
         <div className="flex items-center space-x-2 bg-white px-4 py-2 rounded-lg shadow-md border border-marine-aqua/20">
           <TrendingUp className="w-5 h-5 text-marine-aqua" />

@@ -45,7 +45,7 @@ const About = () => {
             transition={{ duration: 0.8 }}
           >
             <h1 className="font-heading mb-5 text-5xl font-bold text-white uppercase tracking-wider">
-              About Corona Marine
+              About Sample Marine
             </h1>
             <p className="font-sans mb-5 text-xl text-neutral-graylight">
               Your Premier Partner for Marine Automation & Spare Parts
@@ -69,7 +69,7 @@ const About = () => {
                 Our Story
               </h2>
               <p className="font-sans text-lg text-marine-blue mb-6 leading-relaxed">
-                Established in Bhavnagar, Gujarat, Corona Marine has evolved into a global leader in the supply of 
+                Established in Bhavnagar, Gujarat, Sample Marine has evolved into a global leader in the supply of 
                 marine automation systems and high-quality spare parts. As a premier **Dealer and Stockist**, we bridge the gap 
                 between quality and affordability by sourcing premium components from the world-renowned Alang ship breaking yard.
               </p>
@@ -79,7 +79,7 @@ const About = () => {
                 critical marine electronics to ensure they meet the rigorous demands of modern shipping.
               </p>
               <p className="font-sans text-lg text-marine-blue mb-8 leading-relaxed">
-                Whether you need a hard-to-find spare part or a complete automation retrofit, Corona Marine is your 
+                Whether you need a hard-to-find spare part or a complete automation retrofit, Sample Marine is your 
                 trusted partner. We serve ship owners, management companies, and trading houses worldwide with 
                 unmatched reliability and technical support.
               </p>

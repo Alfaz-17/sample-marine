@@ -90,7 +90,7 @@ const TubelightNavbar = () => {
                     scrolled ? "text-lg md:text-xl" : "text-xl md:text-2xl"
                   }`}
                 >
-                  CORONA
+                  SAMPLE
                 </span>
                 <span
                   className={`font-sans text-marine-aqua tracking-[0.2em] uppercase font-semibold transition-all duration-500 ${
@@ -197,7 +197,7 @@ const TubelightNavbar = () => {
                   <Anchor className="w-8 h-8 text-marine-aqua" />
                   <div className="flex flex-col">
                     <span className="font-heading text-2xl font-bold text-white tracking-wide">
-                      CORONA
+                      SAMPLE
                     </span>
                     <span className="font-sans text-xs text-marine-aqua tracking-[0.2em] uppercase font-semibold">
                       MARINE

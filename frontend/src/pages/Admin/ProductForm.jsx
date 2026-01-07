@@ -76,7 +76,7 @@ const ProductForm = () => {
       let uploadedImages = [];
 
       for (let file of imagesFile) {
-        const watermarkedFile = await addWatermark(file, "CoronaMarine");
+        const watermarkedFile = await addWatermark(file, "SampleMarine");
         const url = await uploadToCloudinary(watermarkedFile);
         uploadedImages.push(url);
       }
@@ -84,7 +84,7 @@ const ProductForm = () => {
       if (imageFile) {
         setIsUploading(true);
         // ✅ Apply watermark before upload
-        const watermarkedFile = await addWatermark(imageFile, "CoronaMarine"); // Change text/logo name
+        const watermarkedFile = await addWatermark(imageFile, "SampleMarine"); // Change text/logo name
         imageUrl = await uploadToCloudinary(watermarkedFile);
         setIsUploading(false);
       }

@@ -1,4 +1,4 @@
-export const uploadToCloudinary = async (file , folder = "corona-marine") => {
+export const uploadToCloudinary = async (file , folder = "sample-marine") => {
   try {
     const formData = new FormData();
     formData.append("file", file);

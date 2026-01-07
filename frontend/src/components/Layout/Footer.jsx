@@ -9,10 +9,10 @@ const Footer = () => {
      <div className="flex flex-col h-full">
         <div className="flex mx-auto items-center mb-4">
           <Anchor className="w-6 h-6  text-marine-aqua mr-2" />
-          <span className="font-bold text-xl">Corona Marine</span>
+          <span className="font-bold text-xl">Sample Marine</span>
         </div>
         <p className="text-neutral-graylight text-justify mb-4 flex-1">
-          Corona Marine is a leading stockist and supplier of Marine Engine Parts, Auxiliary Machinery, Navigation Equipment, and Industrial Automation. We cater to the global maritime industry, serving ship owners, management companies, and trading houses with high-quality spares sourced from Alang ship breaking yard. We ensure reliability, transparency, and competitive pricing for all our clients.
+          Sample Marine is a leading stockist and supplier of Marine Engine Parts, Auxiliary Machinery, Navigation Equipment, and Industrial Automation. We cater to the global maritime industry, serving ship owners, management companies, and trading houses with high-quality spares sourced from Alang ship breaking yard. We ensure reliability, transparency, and competitive pricing for all our clients.
         </p>
         <div className="flex space-x-4 m-auto">
           <Facebook className="w-5 h-5 text-marine-aqua hover:text-white" />
@@ -60,7 +60,7 @@ const Footer = () => {
           </div>
           <div className="flex items-center">
             <Mail className="w-5 h-5 text-marine-aqua mr-3" />
-            <span className="text-neutral-graylight">coronamarine5050@gmail.com</span>
+            <span className="text-neutral-graylight">info@samplemarine.com</span>
           </div>
         </div>
       </div>
@@ -69,7 +69,7 @@ const Footer = () => {
     {/* Footer Bottom */}
     <div className="border-t border-marine-navy mt-12 pt-8 text-center">
       <p className="text-neutral-graycool mb-2 text-sm md:text-base">
-        © 2024 Corona Marine. All rights reserved. | Privacy Policy | Terms of Service
+        © 2024 Sample Marine. All rights reserved. | Privacy Policy | Terms of Service
       </p>
       <p className="text-neutral-graycool text-sm">
         Developed by <a href="https://www.instagram.com/alfaz_bilakhiya17" className="text-marine-aqua hover:underline" target="_blank" rel="noopener noreferrer">@alfaz_bilakhiya17</a>

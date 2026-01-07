@@ -51,8 +51,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      details: ["coronamarine5050@gmail.com"],
-      action: "mailto:coronamarine5050@gmail.com",
+      details: ["info@samplemarine.com"],
+      action: "mailto:info@samplemarine.com",
     },
     {
       icon: MapPin,
@@ -324,7 +324,7 @@ const Contact = () => {
                 <Phone className="w-4 h-4 mr-2" />
                 Emergency Hotline
               </a>
-              <a href="mailto:coronamarine5050@gmail.com" className="btn btn-outline border-red-600 text-red-600 hover:bg-red-100 flex-1">
+              <a href="mailto:info@samplemarine.com" className="btn btn-outline border-red-600 text-red-600 hover:bg-red-100 flex-1">
                 <Mail className="w-4 h-4 mr-2" />
                 Emergency Email
               </a>

@@ -57,7 +57,7 @@ const Login = () => {
           {/* Logo and Title */}
           <div className="text-center mb-8">
             <div className="flex flex-col items-center justify-center mb-4">
-              <span className="font-heading text-3xl font-bold text-marine-navy tracking-wide">CORONA MARINE</span>
+              <span className="font-heading text-3xl font-bold text-marine-navy tracking-wide">SAMPLE MARINE</span>
               <span className="font-sans text-sm text-marine-aqua tracking-wider uppercase font-semibold mt-1">ADMIN PANEL</span>
             </div>
             <h2 className="font-heading text-xl font-bold text-marine-navy uppercase tracking-wide">Admin Login</h2>
